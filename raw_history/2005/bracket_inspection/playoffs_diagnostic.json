@@ -1,0 +1,389 @@
+{
+  "season": 2005,
+  "league_id": "333972",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2005",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "The King",
+        "Manager: --hidden--",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Projections",
+        "All Time",
+        "Championship",
+        "\ue002",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Playoffs",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "The King",
+        "boxer dog",
+        "Road to 150",
+        "6th"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "The King",
+        "boxer dog",
+        "Road to 150",
+        "6th",
+        "Week 14:",
+        "Dec 6 - Dec 12"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "The King",
+        "boxer dog",
+        "Road to 150",
+        "6th",
+        "Week 14:",
+        "Dec 6 - Dec 12",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "The King",
+        "boxer dog",
+        "Road to 150",
+        "6th",
+        "Week 14:",
+        "Dec 6 - Dec 12",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "The King",
+        "boxer dog",
+        "Road to 150",
+        "6th",
+        "Week 14:",
+        "Dec 6 - Dec 12",
+        "Quarterfinal",
+        "1",
+        "boxer dog"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "The King",
+        "boxer dog",
+        "Road to 150",
+        "6th",
+        "Week 14:",
+        "Dec 6 - Dec 12",
+        "Quarterfinal",
+        "1",
+        "boxer dog",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6th",
+        "Week 14:",
+        "Dec 6 - Dec 12"
+      ],
+      "context_after": [
+        "1",
+        "boxer dog",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "Bring on Kase!",
+        "162.72",
+        "5",
+        "Krusin",
+        "107.28",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "boxer dog",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "Bring on Kase!",
+        "162.72",
+        "5",
+        "Krusin",
+        "107.28",
+        "Quarterfinal",
+        "3",
+        "Road to 150",
+        "165.71",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "Krusin",
+        "107.28"
+      ],
+      "context_after": [
+        "3",
+        "Road to 150",
+        "165.71",
+        "6",
+        "dark horse",
+        "134.30",
+        "Quarterfinal",
+        "2",
+        "The King",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "dark horse",
+        "134.30"
+      ],
+      "context_after": [
+        "2",
+        "The King",
+        "Bye",
+        "Week 15:",
+        "Dec 13 - Dec 19",
+        "Semifinal",
+        "1",
+        "boxer dog",
+        "178.55",
+        "4",
+        "Bring on Kase!"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 13 - Dec 19"
+      ],
+      "context_after": [
+        "1",
+        "boxer dog",
+        "178.55",
+        "4",
+        "Bring on Kase!",
+        "158.49",
+        "Semifinal",
+        "3",
+        "Road to 150",
+        "93.03",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "4",
+        "Bring on Kase!",
+        "158.49"
+      ],
+      "context_after": [
+        "3",
+        "Road to 150",
+        "93.03",
+        "2",
+        "The King",
+        "107.28",
+        "5th Place Game",
+        "5",
+        "Krusin",
+        "120.48",
+        "6"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "155.47",
+        "Week 16:",
+        "Dec 20 - Dec 26"
+      ],
+      "context_after": [
+        "1",
+        "boxer dog",
+        "165.63",
+        "2",
+        "The King",
+        "176.07",
+        "3rd Place Game",
+        "4",
+        "Bring on Kase!",
+        "98.58",
+        "3"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "2",
+        "The King",
+        "176.07"
+      ],
+      "context_after": [
+        "4",
+        "Bring on Kase!",
+        "98.58",
+        "3",
+        "Road to 150",
+        "115.52",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2005/f1/333972?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

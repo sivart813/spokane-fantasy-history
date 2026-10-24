@@ -1,0 +1,393 @@
+{
+  "season": 2017,
+  "league_id": "486669",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2017",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "Duffy",
+        "Manager:",
+        "zach p",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Duffy",
+        "Todd's Tip Top Team",
+        "Default",
+        "3rd"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Duffy",
+        "Todd's Tip Top Team",
+        "Default",
+        "3rd",
+        "Week 14:",
+        "Dec 5 - Dec 11"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Duffy",
+        "Todd's Tip Top Team",
+        "Default",
+        "3rd",
+        "Week 14:",
+        "Dec 5 - Dec 11",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Duffy",
+        "Todd's Tip Top Team",
+        "Default",
+        "3rd",
+        "Week 14:",
+        "Dec 5 - Dec 11",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "Duffy",
+        "Todd's Tip Top Team",
+        "Default",
+        "3rd",
+        "Week 14:",
+        "Dec 5 - Dec 11",
+        "Quarterfinal",
+        "1",
+        "#10?"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "Duffy",
+        "Todd's Tip Top Team",
+        "Default",
+        "3rd",
+        "Week 14:",
+        "Dec 5 - Dec 11",
+        "Quarterfinal",
+        "1",
+        "#10?",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "3rd",
+        "Week 14:",
+        "Dec 5 - Dec 11"
+      ],
+      "context_after": [
+        "1",
+        "#10?",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "Todd's Tip Top Team",
+        "116.45",
+        "5",
+        "GURU",
+        "107.31",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "#10?",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "Todd's Tip Top Team",
+        "116.45",
+        "5",
+        "GURU",
+        "107.31",
+        "Quarterfinal",
+        "3",
+        "Default",
+        "156.18",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "GURU",
+        "107.31"
+      ],
+      "context_after": [
+        "3",
+        "Default",
+        "156.18",
+        "6",
+        "Robert Franks",
+        "100.36",
+        "Quarterfinal",
+        "2",
+        "Duffy",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "Robert Franks",
+        "100.36"
+      ],
+      "context_after": [
+        "2",
+        "Duffy",
+        "Bye",
+        "Week 15:",
+        "Dec 12 - Dec 18",
+        "Semifinal",
+        "1",
+        "#10?",
+        "97.22",
+        "4",
+        "Todd's Tip Top Team"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 12 - Dec 18"
+      ],
+      "context_after": [
+        "1",
+        "#10?",
+        "97.22",
+        "4",
+        "Todd's Tip Top Team",
+        "149.35",
+        "Semifinal",
+        "3",
+        "Default",
+        "135.54",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "4",
+        "Todd's Tip Top Team",
+        "149.35"
+      ],
+      "context_after": [
+        "3",
+        "Default",
+        "135.54",
+        "2",
+        "Duffy",
+        "149.21",
+        "5th Place Game",
+        "5",
+        "GURU",
+        "122.55",
+        "6"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "112.21",
+        "Week 16:",
+        "Dec 19 - Dec 25"
+      ],
+      "context_after": [
+        "4",
+        "Todd's Tip Top Team",
+        "105.26",
+        "2",
+        "Duffy",
+        "114.62",
+        "3rd Place Game",
+        "1",
+        "#10?",
+        "96.73",
+        "3"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "2",
+        "Duffy",
+        "114.62"
+      ],
+      "context_after": [
+        "1",
+        "#10?",
+        "96.73",
+        "3",
+        "Default",
+        "107.55",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2017/f1/486669?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

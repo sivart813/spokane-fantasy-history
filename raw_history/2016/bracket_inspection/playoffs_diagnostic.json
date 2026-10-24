@@ -1,0 +1,393 @@
+{
+  "season": 2016,
+  "league_id": "897693",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2016",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "Tara",
+        "Manager:",
+        "zach p",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Tara",
+        "HomELeSS SHeLtER",
+        "Gon'JimBobYourCooter",
+        "3rd"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Tara",
+        "HomELeSS SHeLtER",
+        "Gon'JimBobYourCooter",
+        "3rd",
+        "Week 14:",
+        "Dec 6 - Dec 12"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Tara",
+        "HomELeSS SHeLtER",
+        "Gon'JimBobYourCooter",
+        "3rd",
+        "Week 14:",
+        "Dec 6 - Dec 12",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Tara",
+        "HomELeSS SHeLtER",
+        "Gon'JimBobYourCooter",
+        "3rd",
+        "Week 14:",
+        "Dec 6 - Dec 12",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "Tara",
+        "HomELeSS SHeLtER",
+        "Gon'JimBobYourCooter",
+        "3rd",
+        "Week 14:",
+        "Dec 6 - Dec 12",
+        "Quarterfinal",
+        "1",
+        "Tara"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "Tara",
+        "HomELeSS SHeLtER",
+        "Gon'JimBobYourCooter",
+        "3rd",
+        "Week 14:",
+        "Dec 6 - Dec 12",
+        "Quarterfinal",
+        "1",
+        "Tara",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "3rd",
+        "Week 14:",
+        "Dec 6 - Dec 12"
+      ],
+      "context_after": [
+        "1",
+        "Tara",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "GURU",
+        "76.99",
+        "5",
+        "Gon'JimBobYourCooter",
+        "157.98",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "Tara",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "GURU",
+        "76.99",
+        "5",
+        "Gon'JimBobYourCooter",
+        "157.98",
+        "Quarterfinal",
+        "3",
+        "The Replacements",
+        "122.85",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "Gon'JimBobYourCooter",
+        "157.98"
+      ],
+      "context_after": [
+        "3",
+        "The Replacements",
+        "122.85",
+        "6",
+        "icantimplayingagame",
+        "75.82",
+        "Quarterfinal",
+        "2",
+        "HomELeSS SHeLtER",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "icantimplayingagame",
+        "75.82"
+      ],
+      "context_after": [
+        "2",
+        "HomELeSS SHeLtER",
+        "Bye",
+        "Week 15:",
+        "Dec 13 - Dec 19",
+        "Semifinal",
+        "1",
+        "Tara",
+        "106.88",
+        "5",
+        "Gon'JimBobYourCooter"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 13 - Dec 19"
+      ],
+      "context_after": [
+        "1",
+        "Tara",
+        "106.88",
+        "5",
+        "Gon'JimBobYourCooter",
+        "97.17",
+        "Semifinal",
+        "3",
+        "The Replacements",
+        "109.32",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "5",
+        "Gon'JimBobYourCooter",
+        "97.17"
+      ],
+      "context_after": [
+        "3",
+        "The Replacements",
+        "109.32",
+        "2",
+        "HomELeSS SHeLtER",
+        "110.46",
+        "5th Place Game",
+        "4",
+        "GURU",
+        "95.18",
+        "6"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "118.42",
+        "Week 16:",
+        "Dec 20 - Dec 26"
+      ],
+      "context_after": [
+        "1",
+        "Tara",
+        "177.16",
+        "2",
+        "HomELeSS SHeLtER",
+        "155.87",
+        "3rd Place Game",
+        "5",
+        "Gon'JimBobYourCooter",
+        "133.54",
+        "3"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "2",
+        "HomELeSS SHeLtER",
+        "155.87"
+      ],
+      "context_after": [
+        "5",
+        "Gon'JimBobYourCooter",
+        "133.54",
+        "3",
+        "The Replacements",
+        "94.37",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2016/f1/897693?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

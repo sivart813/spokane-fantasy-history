@@ -1,0 +1,389 @@
+{
+  "season": 2004,
+  "league_id": "155313",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2004",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "what does first get?",
+        "Manager:",
+        "JC",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Projections",
+        "All Time",
+        "Championship",
+        "\ue002"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Playoffs",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "what does first get?",
+        "What does last get?",
+        "DG4",
+        "2nd"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "what does first get?",
+        "What does last get?",
+        "DG4",
+        "2nd",
+        "Week 15:",
+        "Dec 14 - Dec 20"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "what does first get?",
+        "What does last get?",
+        "DG4",
+        "2nd",
+        "Week 15:",
+        "Dec 14 - Dec 20",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "what does first get?",
+        "What does last get?",
+        "DG4",
+        "2nd",
+        "Week 15:",
+        "Dec 14 - Dec 20",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "what does first get?",
+        "What does last get?",
+        "DG4",
+        "2nd",
+        "Week 15:",
+        "Dec 14 - Dec 20",
+        "Quarterfinal",
+        "1",
+        "pair and a straight"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "what does first get?",
+        "What does last get?",
+        "DG4",
+        "2nd",
+        "Week 15:",
+        "Dec 14 - Dec 20",
+        "Quarterfinal",
+        "1",
+        "pair and a straight",
+        "178.20"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "2nd",
+        "Week 15:",
+        "Dec 14 - Dec 20"
+      ],
+      "context_after": [
+        "1",
+        "pair and a straight",
+        "178.20",
+        "8",
+        "DG4",
+        "180.06",
+        "Quarterfinal",
+        "4",
+        "what does first get?",
+        "187.90",
+        "5"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "8",
+        "DG4",
+        "180.06"
+      ],
+      "context_after": [
+        "4",
+        "what does first get?",
+        "187.90",
+        "5",
+        "mandiga",
+        "184.63",
+        "Quarterfinal",
+        "3",
+        "Nice League",
+        "179.73",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "mandiga",
+        "184.63"
+      ],
+      "context_after": [
+        "3",
+        "Nice League",
+        "179.73",
+        "6",
+        "Chomp King",
+        "136.07",
+        "Quarterfinal",
+        "2",
+        "0-6",
+        "142.16",
+        "7"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "Chomp King",
+        "136.07"
+      ],
+      "context_after": [
+        "2",
+        "0-6",
+        "142.16",
+        "7",
+        "What does last get?",
+        "194.43",
+        "Week 16:",
+        "Dec 21 - Dec 27",
+        "Semifinal",
+        "8",
+        "DG4"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "194.43",
+        "Week 16:",
+        "Dec 21 - Dec 27"
+      ],
+      "context_after": [
+        "8",
+        "DG4",
+        "147.47",
+        "4",
+        "what does first get?",
+        "167.27",
+        "Semifinal",
+        "3",
+        "Nice League",
+        "178.73",
+        "7"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "4",
+        "what does first get?",
+        "167.27"
+      ],
+      "context_after": [
+        "3",
+        "Nice League",
+        "178.73",
+        "7",
+        "What does last get?",
+        "211.03",
+        "Week 17:",
+        "Dec 28 - Jan 2",
+        "Final",
+        "4",
+        "what does first get?"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "211.03",
+        "Week 17:",
+        "Dec 28 - Jan 2"
+      ],
+      "context_after": [
+        "4",
+        "what does first get?",
+        "201.20",
+        "7",
+        "What does last get?",
+        "142.16",
+        "3rd Place Game",
+        "8",
+        "DG4",
+        "199.63",
+        "3"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "7",
+        "What does last get?",
+        "142.16"
+      ],
+      "context_after": [
+        "8",
+        "DG4",
+        "199.63",
+        "3",
+        "Nice League",
+        "144.66",
+        "Matchups",
+        "\ue003",
+        "Week 17",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2004/f1/155313?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

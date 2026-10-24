@@ -1,0 +1,393 @@
+{
+  "season": 2015,
+  "league_id": "1155696",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2015",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue009",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "#HuEWeing THe GUy",
+        "Manager:",
+        "JC",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "#HuEWeing THe GUy",
+        "#Nik_Cummings",
+        "Power Rankings",
+        "6th"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "#HuEWeing THe GUy",
+        "#Nik_Cummings",
+        "Power Rankings",
+        "6th",
+        "Week 14:",
+        "Dec 8 - Dec 14"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "#HuEWeing THe GUy",
+        "#Nik_Cummings",
+        "Power Rankings",
+        "6th",
+        "Week 14:",
+        "Dec 8 - Dec 14",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "#HuEWeing THe GUy",
+        "#Nik_Cummings",
+        "Power Rankings",
+        "6th",
+        "Week 14:",
+        "Dec 8 - Dec 14",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "#HuEWeing THe GUy",
+        "#Nik_Cummings",
+        "Power Rankings",
+        "6th",
+        "Week 14:",
+        "Dec 8 - Dec 14",
+        "Quarterfinal",
+        "1",
+        "Power Rankings"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "#HuEWeing THe GUy",
+        "#Nik_Cummings",
+        "Power Rankings",
+        "6th",
+        "Week 14:",
+        "Dec 8 - Dec 14",
+        "Quarterfinal",
+        "1",
+        "Power Rankings",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6th",
+        "Week 14:",
+        "Dec 8 - Dec 14"
+      ],
+      "context_after": [
+        "1",
+        "Power Rankings",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "#Nik_Cummings",
+        "147.85",
+        "5",
+        "RyGuyIsMyHero",
+        "92.97",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "Power Rankings",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "#Nik_Cummings",
+        "147.85",
+        "5",
+        "RyGuyIsMyHero",
+        "92.97",
+        "Quarterfinal",
+        "3",
+        "switching&partying",
+        "132.76",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "RyGuyIsMyHero",
+        "92.97"
+      ],
+      "context_after": [
+        "3",
+        "switching&partying",
+        "132.76",
+        "6",
+        "#bringONtheLITTLEguy",
+        "105.70",
+        "Quarterfinal",
+        "2",
+        "#HuEWeing THe GUy",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "#bringONtheLITTLEguy",
+        "105.70"
+      ],
+      "context_after": [
+        "2",
+        "#HuEWeing THe GUy",
+        "Bye",
+        "Week 15:",
+        "Dec 15 - Dec 21",
+        "Semifinal",
+        "1",
+        "Power Rankings",
+        "130.44",
+        "4",
+        "#Nik_Cummings"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 15 - Dec 21"
+      ],
+      "context_after": [
+        "1",
+        "Power Rankings",
+        "130.44",
+        "4",
+        "#Nik_Cummings",
+        "134.95",
+        "Semifinal",
+        "3",
+        "switching&partying",
+        "95.41",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "4",
+        "#Nik_Cummings",
+        "134.95"
+      ],
+      "context_after": [
+        "3",
+        "switching&partying",
+        "95.41",
+        "2",
+        "#HuEWeing THe GUy",
+        "121.47",
+        "5th Place Game",
+        "5",
+        "RyGuyIsMyHero",
+        "123.21",
+        "6"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "150.95",
+        "Week 16:",
+        "Dec 22 - Dec 28"
+      ],
+      "context_after": [
+        "4",
+        "#Nik_Cummings",
+        "133.77",
+        "2",
+        "#HuEWeing THe GUy",
+        "133.83",
+        "3rd Place Game",
+        "1",
+        "Power Rankings",
+        "133.63",
+        "3"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "2",
+        "#HuEWeing THe GUy",
+        "133.83"
+      ],
+      "context_after": [
+        "1",
+        "Power Rankings",
+        "133.63",
+        "3",
+        "switching&partying",
+        "124.87",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2015/f1/1155696?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

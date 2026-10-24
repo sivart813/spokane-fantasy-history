@@ -1,0 +1,393 @@
+{
+  "season": 2012,
+  "league_id": "853988",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2012",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "David",
+        "Manager:",
+        "Kasey",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "David",
+        "Danny O'Shea",
+        "Holleratyalater",
+        "9th"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "David",
+        "Danny O'Shea",
+        "Holleratyalater",
+        "9th",
+        "Week 14:",
+        "Dec 4 - Dec 10"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "David",
+        "Danny O'Shea",
+        "Holleratyalater",
+        "9th",
+        "Week 14:",
+        "Dec 4 - Dec 10",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "David",
+        "Danny O'Shea",
+        "Holleratyalater",
+        "9th",
+        "Week 14:",
+        "Dec 4 - Dec 10",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "David",
+        "Danny O'Shea",
+        "Holleratyalater",
+        "9th",
+        "Week 14:",
+        "Dec 4 - Dec 10",
+        "Quarterfinal",
+        "1",
+        "RyISGurU"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "David",
+        "Danny O'Shea",
+        "Holleratyalater",
+        "9th",
+        "Week 14:",
+        "Dec 4 - Dec 10",
+        "Quarterfinal",
+        "1",
+        "RyISGurU",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "9th",
+        "Week 14:",
+        "Dec 4 - Dec 10"
+      ],
+      "context_after": [
+        "1",
+        "RyISGurU",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "Rocky balboa",
+        "94.20",
+        "5",
+        "David",
+        "134.42",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "RyISGurU",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "Rocky balboa",
+        "94.20",
+        "5",
+        "David",
+        "134.42",
+        "Quarterfinal",
+        "3",
+        "Danny O'Shea",
+        "135.28",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "David",
+        "134.42"
+      ],
+      "context_after": [
+        "3",
+        "Danny O'Shea",
+        "135.28",
+        "6",
+        "SUGAR BEAR & GLITZY",
+        "123.04",
+        "Quarterfinal",
+        "2",
+        "Holleratyalater",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "SUGAR BEAR & GLITZY",
+        "123.04"
+      ],
+      "context_after": [
+        "2",
+        "Holleratyalater",
+        "Bye",
+        "Week 15:",
+        "Dec 11 - Dec 17",
+        "Semifinal",
+        "1",
+        "RyISGurU",
+        "65.85",
+        "5",
+        "David"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 11 - Dec 17"
+      ],
+      "context_after": [
+        "1",
+        "RyISGurU",
+        "65.85",
+        "5",
+        "David",
+        "130.32",
+        "Semifinal",
+        "3",
+        "Danny O'Shea",
+        "150.22",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "5",
+        "David",
+        "130.32"
+      ],
+      "context_after": [
+        "3",
+        "Danny O'Shea",
+        "150.22",
+        "2",
+        "Holleratyalater",
+        "98.14",
+        "5th Place Game",
+        "4",
+        "Rocky balboa",
+        "118.90",
+        "6"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "77.83",
+        "Week 16:",
+        "Dec 18 - Dec 24"
+      ],
+      "context_after": [
+        "5",
+        "David",
+        "138.74",
+        "3",
+        "Danny O'Shea",
+        "97.94",
+        "3rd Place Game",
+        "1",
+        "RyISGurU",
+        "103.76",
+        "2"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "3",
+        "Danny O'Shea",
+        "97.94"
+      ],
+      "context_after": [
+        "1",
+        "RyISGurU",
+        "103.76",
+        "2",
+        "Holleratyalater",
+        "107.50",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2012/f1/853988?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

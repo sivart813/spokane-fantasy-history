@@ -1,0 +1,393 @@
+{
+  "season": 2013,
+  "league_id": "1007629",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2013",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue009",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "APaRT of THe FFcA",
+        "Manager:",
+        "JC",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "APaRT of THe FFcA",
+        "4 SALE_$400 OBO",
+        "youthinkicare",
+        "5th"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "APaRT of THe FFcA",
+        "4 SALE_$400 OBO",
+        "youthinkicare",
+        "5th",
+        "Week 14:",
+        "Dec 3 - Dec 9"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "APaRT of THe FFcA",
+        "4 SALE_$400 OBO",
+        "youthinkicare",
+        "5th",
+        "Week 14:",
+        "Dec 3 - Dec 9",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "APaRT of THe FFcA",
+        "4 SALE_$400 OBO",
+        "youthinkicare",
+        "5th",
+        "Week 14:",
+        "Dec 3 - Dec 9",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "APaRT of THe FFcA",
+        "4 SALE_$400 OBO",
+        "youthinkicare",
+        "5th",
+        "Week 14:",
+        "Dec 3 - Dec 9",
+        "Quarterfinal",
+        "1",
+        "4 SALE_$400 OBO"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "APaRT of THe FFcA",
+        "4 SALE_$400 OBO",
+        "youthinkicare",
+        "5th",
+        "Week 14:",
+        "Dec 3 - Dec 9",
+        "Quarterfinal",
+        "1",
+        "4 SALE_$400 OBO",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5th",
+        "Week 14:",
+        "Dec 3 - Dec 9"
+      ],
+      "context_after": [
+        "1",
+        "4 SALE_$400 OBO",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "Adam Banks",
+        "125.65",
+        "5",
+        "I Wish I Had 3 QB's",
+        "95.17",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "4 SALE_$400 OBO",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "Adam Banks",
+        "125.65",
+        "5",
+        "I Wish I Had 3 QB's",
+        "95.17",
+        "Quarterfinal",
+        "3",
+        "APaRT of THe FFcA",
+        "140.76",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "I Wish I Had 3 QB's",
+        "95.17"
+      ],
+      "context_after": [
+        "3",
+        "APaRT of THe FFcA",
+        "140.76",
+        "6",
+        "Wish I had 6 WR's",
+        "125.68",
+        "Quarterfinal",
+        "2",
+        "youthinkicare",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "Wish I had 6 WR's",
+        "125.68"
+      ],
+      "context_after": [
+        "2",
+        "youthinkicare",
+        "Bye",
+        "Week 15:",
+        "Dec 10 - Dec 16",
+        "Semifinal",
+        "1",
+        "4 SALE_$400 OBO",
+        "160.62",
+        "4",
+        "Adam Banks"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 10 - Dec 16"
+      ],
+      "context_after": [
+        "1",
+        "4 SALE_$400 OBO",
+        "160.62",
+        "4",
+        "Adam Banks",
+        "98.23",
+        "Semifinal",
+        "3",
+        "APaRT of THe FFcA",
+        "162.55",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "4",
+        "Adam Banks",
+        "98.23"
+      ],
+      "context_after": [
+        "3",
+        "APaRT of THe FFcA",
+        "162.55",
+        "2",
+        "youthinkicare",
+        "158.45",
+        "5th Place Game",
+        "5",
+        "I Wish I Had 3 QB's",
+        "128.96",
+        "6"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "72.10",
+        "Week 16:",
+        "Dec 17 - Dec 23"
+      ],
+      "context_after": [
+        "1",
+        "4 SALE_$400 OBO",
+        "92.34",
+        "3",
+        "APaRT of THe FFcA",
+        "140.15",
+        "3rd Place Game",
+        "4",
+        "Adam Banks",
+        "124.47",
+        "2"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "3",
+        "APaRT of THe FFcA",
+        "140.15"
+      ],
+      "context_after": [
+        "4",
+        "Adam Banks",
+        "124.47",
+        "2",
+        "youthinkicare",
+        "139.43",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2013/f1/1007629?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

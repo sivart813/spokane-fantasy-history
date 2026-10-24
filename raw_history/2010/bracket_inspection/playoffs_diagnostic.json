@@ -1,0 +1,393 @@
+{
+  "season": 2010,
+  "league_id": "556174",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2010",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "MuleProof",
+        "Manager:",
+        "zach p",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "MuleProof",
+        "WIntER WONderLaNd",
+        "Auction?",
+        "5th"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "MuleProof",
+        "WIntER WONderLaNd",
+        "Auction?",
+        "5th",
+        "Week 14:",
+        "Dec 7 - Dec 13"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "MuleProof",
+        "WIntER WONderLaNd",
+        "Auction?",
+        "5th",
+        "Week 14:",
+        "Dec 7 - Dec 13",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "MuleProof",
+        "WIntER WONderLaNd",
+        "Auction?",
+        "5th",
+        "Week 14:",
+        "Dec 7 - Dec 13",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "MuleProof",
+        "WIntER WONderLaNd",
+        "Auction?",
+        "5th",
+        "Week 14:",
+        "Dec 7 - Dec 13",
+        "Quarterfinal",
+        "1",
+        "stubbedbabytoe?"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "MuleProof",
+        "WIntER WONderLaNd",
+        "Auction?",
+        "5th",
+        "Week 14:",
+        "Dec 7 - Dec 13",
+        "Quarterfinal",
+        "1",
+        "stubbedbabytoe?",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5th",
+        "Week 14:",
+        "Dec 7 - Dec 13"
+      ],
+      "context_after": [
+        "1",
+        "stubbedbabytoe?",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "GURU",
+        "103.68",
+        "5",
+        "WIntER WONderLaNd",
+        "143.96",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "stubbedbabytoe?",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "GURU",
+        "103.68",
+        "5",
+        "WIntER WONderLaNd",
+        "143.96",
+        "Quarterfinal",
+        "3",
+        "MuleProof",
+        "144.54",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "WIntER WONderLaNd",
+        "143.96"
+      ],
+      "context_after": [
+        "3",
+        "MuleProof",
+        "144.54",
+        "6",
+        "Wade Phillips",
+        "89.48",
+        "Quarterfinal",
+        "2",
+        "Auction?",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "Wade Phillips",
+        "89.48"
+      ],
+      "context_after": [
+        "2",
+        "Auction?",
+        "Bye",
+        "Week 15:",
+        "Dec 14 - Dec 20",
+        "Semifinal",
+        "1",
+        "stubbedbabytoe?",
+        "98.13",
+        "5",
+        "WIntER WONderLaNd"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 14 - Dec 20"
+      ],
+      "context_after": [
+        "1",
+        "stubbedbabytoe?",
+        "98.13",
+        "5",
+        "WIntER WONderLaNd",
+        "134.62",
+        "Semifinal",
+        "3",
+        "MuleProof",
+        "104.20",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "5",
+        "WIntER WONderLaNd",
+        "134.62"
+      ],
+      "context_after": [
+        "3",
+        "MuleProof",
+        "104.20",
+        "2",
+        "Auction?",
+        "100.97",
+        "5th Place Game",
+        "4",
+        "GURU",
+        "95.76",
+        "6"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "104.78",
+        "Week 16:",
+        "Dec 21 - Dec 28"
+      ],
+      "context_after": [
+        "5",
+        "WIntER WONderLaNd",
+        "112.28",
+        "3",
+        "MuleProof",
+        "114.82",
+        "3rd Place Game",
+        "1",
+        "stubbedbabytoe?",
+        "118.55",
+        "2"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "3",
+        "MuleProof",
+        "114.82"
+      ],
+      "context_after": [
+        "1",
+        "stubbedbabytoe?",
+        "118.55",
+        "2",
+        "Auction?",
+        "130.53",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2010/f1/556174?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

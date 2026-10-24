@@ -1,0 +1,393 @@
+{
+  "season": 2008,
+  "league_id": "284838",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2008",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "1st TEAM ALL NFL",
+        "Manager:",
+        "Ty L",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Projections",
+        "All Time",
+        "Championship",
+        "\ue002"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Playoffs",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "1st TEAM ALL NFL",
+        "fantasydynasty/guru",
+        "WETBACK4",
+        "8th"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "1st TEAM ALL NFL",
+        "fantasydynasty/guru",
+        "WETBACK4",
+        "8th",
+        "Week 14:",
+        "Dec 2 - Dec 8"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "1st TEAM ALL NFL",
+        "fantasydynasty/guru",
+        "WETBACK4",
+        "8th",
+        "Week 14:",
+        "Dec 2 - Dec 8",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "1st TEAM ALL NFL",
+        "fantasydynasty/guru",
+        "WETBACK4",
+        "8th",
+        "Week 14:",
+        "Dec 2 - Dec 8",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "1st TEAM ALL NFL",
+        "fantasydynasty/guru",
+        "WETBACK4",
+        "8th",
+        "Week 14:",
+        "Dec 2 - Dec 8",
+        "Quarterfinal",
+        "1",
+        "WETBACK4"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "1st TEAM ALL NFL",
+        "fantasydynasty/guru",
+        "WETBACK4",
+        "8th",
+        "Week 14:",
+        "Dec 2 - Dec 8",
+        "Quarterfinal",
+        "1",
+        "WETBACK4",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "8th",
+        "Week 14:",
+        "Dec 2 - Dec 8"
+      ],
+      "context_after": [
+        "1",
+        "WETBACK4",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "2ND TEAM ALL NFL",
+        "106.73",
+        "5",
+        "1st TEAM ALL NFL",
+        "108.08",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "WETBACK4",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "2ND TEAM ALL NFL",
+        "106.73",
+        "5",
+        "1st TEAM ALL NFL",
+        "108.08",
+        "Quarterfinal",
+        "3",
+        "Power Rankings",
+        "74.84",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "1st TEAM ALL NFL",
+        "108.08"
+      ],
+      "context_after": [
+        "3",
+        "Power Rankings",
+        "74.84",
+        "6",
+        "fantasydynasty/guru",
+        "145.55",
+        "Quarterfinal",
+        "2",
+        "Geno",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "fantasydynasty/guru",
+        "145.55"
+      ],
+      "context_after": [
+        "2",
+        "Geno",
+        "Bye",
+        "Week 15:",
+        "Dec 9 - Dec 15",
+        "Semifinal",
+        "1",
+        "WETBACK4",
+        "92.38",
+        "5",
+        "1st TEAM ALL NFL"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 9 - Dec 15"
+      ],
+      "context_after": [
+        "1",
+        "WETBACK4",
+        "92.38",
+        "5",
+        "1st TEAM ALL NFL",
+        "98.72",
+        "Semifinal",
+        "6",
+        "fantasydynasty/guru",
+        "122.04",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "5",
+        "1st TEAM ALL NFL",
+        "98.72"
+      ],
+      "context_after": [
+        "6",
+        "fantasydynasty/guru",
+        "122.04",
+        "2",
+        "Geno",
+        "119.24",
+        "5th Place Game",
+        "4",
+        "2ND TEAM ALL NFL",
+        "99.70",
+        "3"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "68.80",
+        "Week 16:",
+        "Dec 16 - Dec 22"
+      ],
+      "context_after": [
+        "5",
+        "1st TEAM ALL NFL",
+        "123.06",
+        "6",
+        "fantasydynasty/guru",
+        "122.26",
+        "3rd Place Game",
+        "1",
+        "WETBACK4",
+        "127.83",
+        "2"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "6",
+        "fantasydynasty/guru",
+        "122.26"
+      ],
+      "context_after": [
+        "1",
+        "WETBACK4",
+        "127.83",
+        "2",
+        "Geno",
+        "112.34",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2008/f1/284838?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    },
+    {
+      "text": "10 fantasy data points you need to know for Week 7 Week 6 brought us one step closer to solving the fantasy football puz",
+      "href": "https://sports.yahoo.com/fantasy/article/10-fantasy-data-points-you-need-to-know-for-week-7-040000433.html"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

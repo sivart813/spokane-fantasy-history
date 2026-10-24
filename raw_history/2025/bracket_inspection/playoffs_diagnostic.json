@@ -1,0 +1,393 @@
+{
+  "season": 2025,
+  "league_id": "211195",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2025",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "TheToddFather",
+        "Manager:",
+        "Todd",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "TheToddFather",
+        "Basshouse",
+        "4theGURU",
+        "6th"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "TheToddFather",
+        "Basshouse",
+        "4theGURU",
+        "6th",
+        "Week 15:",
+        "Dec 9 - Dec 15"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "TheToddFather",
+        "Basshouse",
+        "4theGURU",
+        "6th",
+        "Week 15:",
+        "Dec 9 - Dec 15",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "TheToddFather",
+        "Basshouse",
+        "4theGURU",
+        "6th",
+        "Week 15:",
+        "Dec 9 - Dec 15",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "TheToddFather",
+        "Basshouse",
+        "4theGURU",
+        "6th",
+        "Week 15:",
+        "Dec 9 - Dec 15",
+        "Quarterfinal",
+        "1",
+        "4theGURU"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "TheToddFather",
+        "Basshouse",
+        "4theGURU",
+        "6th",
+        "Week 15:",
+        "Dec 9 - Dec 15",
+        "Quarterfinal",
+        "1",
+        "4theGURU",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6th",
+        "Week 15:",
+        "Dec 9 - Dec 15"
+      ],
+      "context_after": [
+        "1",
+        "4theGURU",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "Basshouse",
+        "154.04",
+        "5",
+        "NewYearStillChamp",
+        "112.90",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "4theGURU",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "Basshouse",
+        "154.04",
+        "5",
+        "NewYearStillChamp",
+        "112.90",
+        "Quarterfinal",
+        "3",
+        "A free ryobi circular saw",
+        "92.00",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "NewYearStillChamp",
+        "112.90"
+      ],
+      "context_after": [
+        "3",
+        "A free ryobi circular saw",
+        "92.00",
+        "6",
+        "TheToddFather",
+        "149.56",
+        "Quarterfinal",
+        "2",
+        "Power Rankings",
+        "Bye",
+        "Week 16:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "TheToddFather",
+        "149.56"
+      ],
+      "context_after": [
+        "2",
+        "Power Rankings",
+        "Bye",
+        "Week 16:",
+        "Dec 16 - Dec 22",
+        "Semifinal",
+        "1",
+        "4theGURU",
+        "86.80",
+        "4",
+        "Basshouse"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 16:",
+        "Dec 16 - Dec 22"
+      ],
+      "context_after": [
+        "1",
+        "4theGURU",
+        "86.80",
+        "4",
+        "Basshouse",
+        "138.46",
+        "Semifinal",
+        "6",
+        "TheToddFather",
+        "140.10",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "4",
+        "Basshouse",
+        "138.46"
+      ],
+      "context_after": [
+        "6",
+        "TheToddFather",
+        "140.10",
+        "2",
+        "Power Rankings",
+        "107.62",
+        "5th Place Game",
+        "5",
+        "NewYearStillChamp",
+        "116.40",
+        "3"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "141.40",
+        "Week 17:",
+        "Dec 23 - Dec 29"
+      ],
+      "context_after": [
+        "4",
+        "Basshouse",
+        "127.28",
+        "6",
+        "TheToddFather",
+        "143.58",
+        "3rd Place Game",
+        "1",
+        "4theGURU",
+        "6.00",
+        "2"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "6",
+        "TheToddFather",
+        "143.58"
+      ],
+      "context_after": [
+        "1",
+        "4theGURU",
+        "6.00",
+        "2",
+        "Power Rankings",
+        "4.00",
+        "Matchups",
+        "\ue003",
+        "Week 17",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2025/f1/211195?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

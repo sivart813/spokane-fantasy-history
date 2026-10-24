@@ -1,0 +1,393 @@
+{
+  "season": 2007,
+  "league_id": "339255",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2007",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "Simpson 2 the Rear!!",
+        "Manager: --hidden--",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Projections",
+        "All Time",
+        "Championship",
+        "\ue002",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Playoffs",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Simpson 2 the Rear!!",
+        "To Much Chocolate",
+        "Team Brady",
+        "7th"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Simpson 2 the Rear!!",
+        "To Much Chocolate",
+        "Team Brady",
+        "7th",
+        "Week 14:",
+        "Dec 4 - Dec 10"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Simpson 2 the Rear!!",
+        "To Much Chocolate",
+        "Team Brady",
+        "7th",
+        "Week 14:",
+        "Dec 4 - Dec 10",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "Simpson 2 the Rear!!",
+        "To Much Chocolate",
+        "Team Brady",
+        "7th",
+        "Week 14:",
+        "Dec 4 - Dec 10",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "Simpson 2 the Rear!!",
+        "To Much Chocolate",
+        "Team Brady",
+        "7th",
+        "Week 14:",
+        "Dec 4 - Dec 10",
+        "Quarterfinal",
+        "1",
+        "Team Brady"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "Simpson 2 the Rear!!",
+        "To Much Chocolate",
+        "Team Brady",
+        "7th",
+        "Week 14:",
+        "Dec 4 - Dec 10",
+        "Quarterfinal",
+        "1",
+        "Team Brady",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "7th",
+        "Week 14:",
+        "Dec 4 - Dec 10"
+      ],
+      "context_after": [
+        "1",
+        "Team Brady",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "Simpson 2 the Rear!!",
+        "138.55",
+        "5",
+        "ummmm yeaaa",
+        "136.29",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "Team Brady",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "Simpson 2 the Rear!!",
+        "138.55",
+        "5",
+        "ummmm yeaaa",
+        "136.29",
+        "Quarterfinal",
+        "3",
+        "Power Rankings!",
+        "97.81",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "ummmm yeaaa",
+        "136.29"
+      ],
+      "context_after": [
+        "3",
+        "Power Rankings!",
+        "97.81",
+        "6",
+        "To Much Chocolate",
+        "111.60",
+        "Quarterfinal",
+        "2",
+        "73fins",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "To Much Chocolate",
+        "111.60"
+      ],
+      "context_after": [
+        "2",
+        "73fins",
+        "Bye",
+        "Week 15:",
+        "Dec 11 - Dec 17",
+        "Semifinal",
+        "1",
+        "Team Brady",
+        "55.46",
+        "4",
+        "Simpson 2 the Rear!!"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 11 - Dec 17"
+      ],
+      "context_after": [
+        "1",
+        "Team Brady",
+        "55.46",
+        "4",
+        "Simpson 2 the Rear!!",
+        "117.06",
+        "Semifinal",
+        "6",
+        "To Much Chocolate",
+        "129.15",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "4",
+        "Simpson 2 the Rear!!",
+        "117.06"
+      ],
+      "context_after": [
+        "6",
+        "To Much Chocolate",
+        "129.15",
+        "2",
+        "73fins",
+        "123.88",
+        "5th Place Game",
+        "5",
+        "ummmm yeaaa",
+        "114.07",
+        "3"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "101.58",
+        "Week 16:",
+        "Dec 18 - Dec 24"
+      ],
+      "context_after": [
+        "4",
+        "Simpson 2 the Rear!!",
+        "118.52",
+        "6",
+        "To Much Chocolate",
+        "116.63",
+        "3rd Place Game",
+        "1",
+        "Team Brady",
+        "126.06",
+        "2"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "6",
+        "To Much Chocolate",
+        "116.63"
+      ],
+      "context_after": [
+        "1",
+        "Team Brady",
+        "126.06",
+        "2",
+        "73fins",
+        "116.03",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2007/f1/339255?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    },
+    {
+      "text": "10 fantasy data points you need to know for Week 7 Week 6 brought us one step closer to solving the fantasy football puz",
+      "href": "https://sports.yahoo.com/fantasy/article/10-fantasy-data-points-you-need-to-know-for-week-7-040000433.html"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

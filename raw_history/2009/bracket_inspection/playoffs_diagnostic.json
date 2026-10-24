@@ -1,0 +1,393 @@
+{
+  "season": 2009,
+  "league_id": "826816",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2009",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "MouseTrap",
+        "Manager:",
+        "Todd",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "MouseTrap",
+        "1ST TEAM ALL NFL",
+        "The Ginger Beard Man",
+        "3rd"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "MouseTrap",
+        "1ST TEAM ALL NFL",
+        "The Ginger Beard Man",
+        "3rd",
+        "Week 14:",
+        "Dec 8 - Dec 14"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "MouseTrap",
+        "1ST TEAM ALL NFL",
+        "The Ginger Beard Man",
+        "3rd",
+        "Week 14:",
+        "Dec 8 - Dec 14",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "MouseTrap",
+        "1ST TEAM ALL NFL",
+        "The Ginger Beard Man",
+        "3rd",
+        "Week 14:",
+        "Dec 8 - Dec 14",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "MouseTrap",
+        "1ST TEAM ALL NFL",
+        "The Ginger Beard Man",
+        "3rd",
+        "Week 14:",
+        "Dec 8 - Dec 14",
+        "Quarterfinal",
+        "1",
+        "The Ginger Beard Man"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "MouseTrap",
+        "1ST TEAM ALL NFL",
+        "The Ginger Beard Man",
+        "3rd",
+        "Week 14:",
+        "Dec 8 - Dec 14",
+        "Quarterfinal",
+        "1",
+        "The Ginger Beard Man",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "3rd",
+        "Week 14:",
+        "Dec 8 - Dec 14"
+      ],
+      "context_after": [
+        "1",
+        "The Ginger Beard Man",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "Toll Road",
+        "106.40",
+        "5",
+        "MouseTrap",
+        "170.06",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "The Ginger Beard Man",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "Toll Road",
+        "106.40",
+        "5",
+        "MouseTrap",
+        "170.06",
+        "Quarterfinal",
+        "3",
+        "1ST TEAM ALL NFL",
+        "158.82",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "MouseTrap",
+        "170.06"
+      ],
+      "context_after": [
+        "3",
+        "1ST TEAM ALL NFL",
+        "158.82",
+        "6",
+        "ali ruth jordan wahl",
+        "125.30",
+        "Quarterfinal",
+        "2",
+        "WinOneForTheGuru",
+        "Bye",
+        "Week 15:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "ali ruth jordan wahl",
+        "125.30"
+      ],
+      "context_after": [
+        "2",
+        "WinOneForTheGuru",
+        "Bye",
+        "Week 15:",
+        "Dec 15 - Dec 21",
+        "Semifinal",
+        "1",
+        "The Ginger Beard Man",
+        "93.79",
+        "5",
+        "MouseTrap"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 15:",
+        "Dec 15 - Dec 21"
+      ],
+      "context_after": [
+        "1",
+        "The Ginger Beard Man",
+        "93.79",
+        "5",
+        "MouseTrap",
+        "125.52",
+        "Semifinal",
+        "3",
+        "1ST TEAM ALL NFL",
+        "118.75",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "5",
+        "MouseTrap",
+        "125.52"
+      ],
+      "context_after": [
+        "3",
+        "1ST TEAM ALL NFL",
+        "118.75",
+        "2",
+        "WinOneForTheGuru",
+        "114.45",
+        "5th Place Game",
+        "4",
+        "Toll Road",
+        "117.05",
+        "6"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "109.44",
+        "Week 16:",
+        "Dec 22 - Dec 28"
+      ],
+      "context_after": [
+        "5",
+        "MouseTrap",
+        "140.18",
+        "3",
+        "1ST TEAM ALL NFL",
+        "87.30",
+        "3rd Place Game",
+        "1",
+        "The Ginger Beard Man",
+        "116.95",
+        "2"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "3",
+        "1ST TEAM ALL NFL",
+        "87.30"
+      ],
+      "context_after": [
+        "1",
+        "The Ginger Beard Man",
+        "116.95",
+        "2",
+        "WinOneForTheGuru",
+        "106.24",
+        "Matchups",
+        "\ue003",
+        "Week 16",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2009/f1/826816?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}

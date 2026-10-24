@@ -1,0 +1,11 @@
+﻿season,league_id,week,team1_id,team1_name,team1_score,team2_id,team2_name,team2_score,winner,phase,playoff_round,bracket_type,is_championship_game
+2026,722778,1,7,NewYearStillChamp,143.66,5,CTE,127.44,NewYearStillChamp,regular,,,
+2026,722778,1,1,The Guru,120.56,4,NextDraft082827,93.32,The Guru,regular,,,
+2026,722778,1,2,Basshouse,98.1,8,Ry for Commissioner,123.06,Ry for Commissioner,regular,,,
+2026,722778,1,3,qbU,188.06,6,Moran Gang,93.74,qbU,regular,,,
+2026,722778,1,9,Power Rankings,123.44,10,TheToddFather,146.36,TheToddFather,regular,,,
+2026,722778,2,7,NewYearStillChamp,139.82,9,Power Rankings,129.38,NewYearStillChamp,regular,,,
+2026,722778,2,1,The Guru,148.68,10,TheToddFather,127.38,The Guru,regular,,,
+2026,722778,2,2,Basshouse,84.9,3,qbU,120.66,qbU,regular,,,
+2026,722778,2,4,NextDraft082827,142.2,6,Moran Gang,101.72,NextDraft082827,regular,,,
+2026,722778,2,5,CTE,117.34,8,Ry for Commissioner,93.52,CTE,regular,,,

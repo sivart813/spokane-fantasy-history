@@ -1,0 +1,393 @@
+{
+  "season": 2024,
+  "league_id": "349630",
+  "page_url": "https://football.fantasysports.yahoo.com/league/goodlordlfacefuckers/2024",
+  "bracket_labels_found": [
+    {
+      "label": "1st Place",
+      "context_before": [
+        "There are no league announcements at this time.",
+        "View All",
+        "Congratulations Fantasy Champion!"
+      ],
+      "context_after": [
+        "NewYearStillMediocre",
+        "Manager:",
+        "Travis",
+        "Standings",
+        "Standings",
+        "Schedule",
+        "Playoffs",
+        "Ratings & Levels",
+        "Projections",
+        "All Time",
+        "Championship"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "Ratings & Levels",
+        "Projections",
+        "All Time"
+      ],
+      "context_after": [
+        "\ue002",
+        "Championship",
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "NewYearStillMediocre",
+        "Power Rankings",
+        "Moran Gang",
+        "1st"
+      ]
+    },
+    {
+      "label": "Championship",
+      "context_before": [
+        "All Time",
+        "Championship",
+        "\ue002"
+      ],
+      "context_after": [
+        "Consolation",
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "NewYearStillMediocre",
+        "Power Rankings",
+        "Moran Gang",
+        "1st",
+        "Week 15:",
+        "Dec 10 - Dec 16"
+      ]
+    },
+    {
+      "label": "Consolation",
+      "context_before": [
+        "Championship",
+        "\ue002",
+        "Championship"
+      ],
+      "context_after": [
+        "1st Place",
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "NewYearStillMediocre",
+        "Power Rankings",
+        "Moran Gang",
+        "1st",
+        "Week 15:",
+        "Dec 10 - Dec 16",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "1st Place",
+      "context_before": [
+        "\ue002",
+        "Championship",
+        "Consolation"
+      ],
+      "context_after": [
+        "2nd Place",
+        "3rd Place",
+        "Finished",
+        "NewYearStillMediocre",
+        "Power Rankings",
+        "Moran Gang",
+        "1st",
+        "Week 15:",
+        "Dec 10 - Dec 16",
+        "Quarterfinal",
+        "1"
+      ]
+    },
+    {
+      "label": "2nd Place",
+      "context_before": [
+        "Championship",
+        "Consolation",
+        "1st Place"
+      ],
+      "context_after": [
+        "3rd Place",
+        "Finished",
+        "NewYearStillMediocre",
+        "Power Rankings",
+        "Moran Gang",
+        "1st",
+        "Week 15:",
+        "Dec 10 - Dec 16",
+        "Quarterfinal",
+        "1",
+        "NewYearStillMediocre"
+      ]
+    },
+    {
+      "label": "3rd Place",
+      "context_before": [
+        "Consolation",
+        "1st Place",
+        "2nd Place"
+      ],
+      "context_after": [
+        "Finished",
+        "NewYearStillMediocre",
+        "Power Rankings",
+        "Moran Gang",
+        "1st",
+        "Week 15:",
+        "Dec 10 - Dec 16",
+        "Quarterfinal",
+        "1",
+        "NewYearStillMediocre",
+        "Bye"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1st",
+        "Week 15:",
+        "Dec 10 - Dec 16"
+      ],
+      "context_after": [
+        "1",
+        "NewYearStillMediocre",
+        "Bye",
+        "Quarterfinal",
+        "4",
+        "Moran Gang",
+        "141.74",
+        "5",
+        "The Guru is back",
+        "121.64",
+        "Quarterfinal"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "1",
+        "NewYearStillMediocre",
+        "Bye"
+      ],
+      "context_after": [
+        "4",
+        "Moran Gang",
+        "141.74",
+        "5",
+        "The Guru is back",
+        "121.64",
+        "Quarterfinal",
+        "3",
+        "CTE",
+        "163.26",
+        "6"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "5",
+        "The Guru is back",
+        "121.64"
+      ],
+      "context_after": [
+        "3",
+        "CTE",
+        "163.26",
+        "6",
+        "TheToddFather",
+        "173.00",
+        "Quarterfinal",
+        "2",
+        "Power Rankings",
+        "Bye",
+        "Week 16:"
+      ]
+    },
+    {
+      "label": "Quarterfinal",
+      "context_before": [
+        "6",
+        "TheToddFather",
+        "173.00"
+      ],
+      "context_after": [
+        "2",
+        "Power Rankings",
+        "Bye",
+        "Week 16:",
+        "Dec 17 - Dec 23",
+        "Semifinal",
+        "1",
+        "NewYearStillMediocre",
+        "171.26",
+        "4",
+        "Moran Gang"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "Bye",
+        "Week 16:",
+        "Dec 17 - Dec 23"
+      ],
+      "context_after": [
+        "1",
+        "NewYearStillMediocre",
+        "171.26",
+        "4",
+        "Moran Gang",
+        "154.94",
+        "Semifinal",
+        "6",
+        "TheToddFather",
+        "125.48",
+        "2"
+      ]
+    },
+    {
+      "label": "Semifinal",
+      "context_before": [
+        "4",
+        "Moran Gang",
+        "154.94"
+      ],
+      "context_after": [
+        "6",
+        "TheToddFather",
+        "125.48",
+        "2",
+        "Power Rankings",
+        "161.18",
+        "5th Place Game",
+        "5",
+        "The Guru is back",
+        "142.48",
+        "3"
+      ]
+    },
+    {
+      "label": "Final",
+      "context_before": [
+        "107.54",
+        "Week 17:",
+        "Dec 24 - Dec 30"
+      ],
+      "context_after": [
+        "1",
+        "NewYearStillMediocre",
+        "126.58",
+        "2",
+        "Power Rankings",
+        "114.54",
+        "3rd Place Game",
+        "4",
+        "Moran Gang",
+        "173.48",
+        "6"
+      ]
+    },
+    {
+      "label": "3rd Place Game",
+      "context_before": [
+        "2",
+        "Power Rankings",
+        "114.54"
+      ],
+      "context_after": [
+        "4",
+        "Moran Gang",
+        "173.48",
+        "6",
+        "TheToddFather",
+        "170.62",
+        "Matchups",
+        "\ue003",
+        "Week 17",
+        "Week 1",
+        "Week 2"
+      ]
+    }
+  ],
+  "playoff_or_standings_links": [
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nfl/standings/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nba/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nba/topic/playoffs/"
+    },
+    {
+      "text": "Playoff Bracket",
+      "href": "https://sports.yahoo.com/nba/playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/mlb/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/mlb/topic/postseason/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/nhl/standings/"
+    },
+    {
+      "text": "Playoffs",
+      "href": "https://sports.yahoo.com/nhl/topic/stanley-cup-playoffs/"
+    },
+    {
+      "text": "Standings",
+      "href": "https://sports.yahoo.com/college-football/standings/"
+    },
+    {
+      "text": "College Football Playoff",
+      "href": "https://sports.yahoo.com/college-football/topic/playoffs-bowl-games/"
+    },
+    {
+      "text": "Standings",
+      "href": "/2024/f1/349630?lhst=stand#leaguehomestandings"
+    },
+    {
+      "text": "Standings",
+      "href": "?module=standings&lhst=stand#lhststand"
+    },
+    {
+      "text": "Schedule",
+      "href": "?module=standings&lhst=sched#lhstsched"
+    },
+    {
+      "text": "Playoffs",
+      "href": "?module=standings&lhst=playoff#lhstplayoff"
+    },
+    {
+      "text": "Ratings & Levels",
+      "href": "?module=standings&lhst=felo#lhstfelo"
+    },
+    {
+      "text": "Projections",
+      "href": "?module=standings&lhst=proj#lhstproj"
+    },
+    {
+      "text": "All Time",
+      "href": "?module=standings&lhst=alltime#lhstalltime"
+    }
+  ],
+  "warning": "Diagnostic only. No champion is assigned automatically."
+}
